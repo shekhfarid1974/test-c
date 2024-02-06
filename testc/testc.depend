@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705983701 source:c:\users\shekh\onedrive\desktop\c++\testc\main.c
+	<stdio.h>
+	<stdlib.h>
+
